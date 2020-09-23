@@ -52,8 +52,8 @@
             type:Object,
             default: function () {
                 return {
-                    str1:'Your best partner,',
-                    str2:'the most powerful system in the world.',
+                    str1:'auto typing,',
+                    str2:'Aron.',
                 }
             }
         }
